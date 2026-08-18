@@ -23,7 +23,7 @@ Sempre procuro aumentar e melhorar meu conhecimento, e estou a procura de uma op
 
 ## ⭐ GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=DeividSkii&theme=dark&hide_border=false)<br/>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&layout=compact&custom_title=My%20Github%20Stats%20%28last%207%20days%29&langs_count=6&theme=algolia)](https://wakatime.com/@alan)
 
 ---
 

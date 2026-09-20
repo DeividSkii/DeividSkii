@@ -11,7 +11,7 @@ Sempre procuro aumentar e melhorar meu conhecimento, e estou a procura de uma op
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,java,spring,py,flask,mysql,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,java,spring,py,fastapi,mysql,mongo)](https://skillicons.dev)
 
 ---
 
